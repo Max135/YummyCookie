@@ -1,0 +1,6 @@
+email: maxime.desmarais@uqtr.ca
+username: YummyCookies60267 
+psw: Omega123!
+
+send from: yummy.cookies.shop@gmail.com
+psw: Omega123!
